@@ -36,7 +36,19 @@ But agile methodology is less predictable and requires significant customer invo
 Waterfall Methodology takes a linear approach. It requires easch stage of the project to be completed before advancing to the next stage.  It is easy to manage and has a clear structure, but it does not easily accomodate changes.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+
+Agile is best for projects with changing requirements such as mobile app, product design marketing campaign.
+
+Waterfall is beat for projects with defined requirements. Examples are construction project, large-scale projects and industries
+
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+
+Ensuring quality assurance (QA) in a software project involves methods such as clear requirements analysis, comprehensive test planning, and automated testing. Regular code reviews, continuous integration and deployment (CI/CD), and test-driven development (TDD) help catch and address issues early. Performance and security testing are crucial to verify the system’s capabilities and protect against vulnerabilities. User acceptance testing (UAT) ensures the software meets end-user needs before release. 
+
+High standards in QA are important for achieving user satisfaction, reducing costs, minimizing risks, and maintaining a strong reputation. By focusing on these practices, organizations can deliver reliable, secure, and effective software.
+
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
